@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Seif Alaa\\source\\repos\\assigment2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD98558B-B279-25F5-061E-2EB7A9437BD7}|assigment2\\assigment2.csproj|c:\\users\\seif alaa\\source\\repos\\assigment2\\assigment2\\repos\\interfaces\\imovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD98558B-B279-25F5-061E-2EB7A9437BD7}|assigment2\\assigment2.csproj|solutionrelative:assigment2\\repos\\interfaces\\imovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD98558B-B279-25F5-061E-2EB7A9437BD7}|assigment2\\assigment2.csproj|c:\\users\\seif alaa\\source\\repos\\assigment2\\assigment2\\repos\\interfaces\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD98558B-B279-25F5-061E-2EB7A9437BD7}|assigment2\\assigment2.csproj|solutionrelative:assigment2\\repos\\interfaces\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD98558B-B279-25F5-061E-2EB7A9437BD7}|assigment2\\assigment2.csproj|c:\\users\\seif alaa\\source\\repos\\assigment2\\assigment2\\repos\\movierepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD98558B-B279-25F5-061E-2EB7A9437BD7}|assigment2\\assigment2.csproj|solutionrelative:assigment2\\repos\\movierepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD98558B-B279-25F5-061E-2EB7A9437BD7}|assigment2\\assigment2.csproj|c:\\users\\seif alaa\\source\\repos\\assigment2\\assigment2\\repos\\genrerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD98558B-B279-25F5-061E-2EB7A9437BD7}|assigment2\\assigment2.csproj|solutionrelative:assigment2\\repos\\genrerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD98558B-B279-25F5-061E-2EB7A9437BD7}|assigment2\\assigment2.csproj|c:\\users\\seif alaa\\source\\repos\\assigment2\\assigment2\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD98558B-B279-25F5-061E-2EB7A9437BD7}|assigment2\\assigment2.csproj|solutionrelative:assigment2\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD98558B-B279-25F5-061E-2EB7A9437BD7}|assigment2\\assigment2.csproj|c:\\users\\seif alaa\\source\\repos\\assigment2\\assigment2\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD98558B-B279-25F5-061E-2EB7A9437BD7}|assigment2\\assigment2.csproj|solutionrelative:assigment2\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Assignment2/True/SqlTable/dbo.Movies.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD98558B-B279-25F5-061E-2EB7A9437BD7}|assigment2\\assigment2.csproj|c:\\users\\seif alaa\\source\\repos\\assigment2\\assigment2\\mapping\\mappprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD98558B-B279-25F5-061E-2EB7A9437BD7}|assigment2\\assigment2.csproj|solutionrelative:assigment2\\mapping\\mappprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD98558B-B279-25F5-061E-2EB7A9437BD7}|assigment2\\assigment2.csproj|c:\\users\\seif alaa\\source\\repos\\assigment2\\assigment2\\repos\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD98558B-B279-25F5-061E-2EB7A9437BD7}|assigment2\\assigment2.csproj|solutionrelative:assigment2\\repos\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Assignment2/True/SqlTable/dbo.Bookings.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IMovie.cs",
+              "DocumentMoniker": "C:\\Users\\Seif Alaa\\source\\repos\\assigment2\\assigment2\\Repos\\InterFaces\\IMovie.cs",
+              "RelativeDocumentMoniker": "assigment2\\Repos\\InterFaces\\IMovie.cs",
+              "ToolTip": "C:\\Users\\Seif Alaa\\source\\repos\\assigment2\\assigment2\\Repos\\InterFaces\\IMovie.cs*",
+              "RelativeToolTip": "assigment2\\Repos\\InterFaces\\IMovie.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T17:26:30.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBook.cs",
+              "DocumentMoniker": "C:\\Users\\Seif Alaa\\source\\repos\\assigment2\\assigment2\\Repos\\InterFaces\\IBook.cs",
+              "RelativeDocumentMoniker": "assigment2\\Repos\\InterFaces\\IBook.cs",
+              "ToolTip": "C:\\Users\\Seif Alaa\\source\\repos\\assigment2\\assigment2\\Repos\\InterFaces\\IBook.cs",
+              "RelativeToolTip": "assigment2\\Repos\\InterFaces\\IBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T17:26:28.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenreRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Seif Alaa\\source\\repos\\assigment2\\assigment2\\Repos\\GenreRepo.cs",
+              "RelativeDocumentMoniker": "assigment2\\Repos\\GenreRepo.cs",
+              "ToolTip": "C:\\Users\\Seif Alaa\\source\\repos\\assigment2\\assigment2\\Repos\\GenreRepo.cs",
+              "RelativeToolTip": "assigment2\\Repos\\GenreRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T17:24:36.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.Movies [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Assignment2/True/SqlTable/dbo.Movies.sql",
+              "ToolTip": "dbo.Movies [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-03T15:45:27.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MappProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Seif Alaa\\source\\repos\\assigment2\\assigment2\\Mapping\\MappProfile.cs",
+              "RelativeDocumentMoniker": "assigment2\\Mapping\\MappProfile.cs",
+              "ToolTip": "C:\\Users\\Seif Alaa\\source\\repos\\assigment2\\assigment2\\Mapping\\MappProfile.cs",
+              "RelativeToolTip": "assigment2\\Mapping\\MappProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T17:10:05.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\Seif Alaa\\source\\repos\\assigment2\\assigment2\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "assigment2\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\Seif Alaa\\source\\repos\\assigment2\\assigment2\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "assigment2\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAzwGcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T16:54:25.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Seif Alaa\\source\\repos\\assigment2\\assigment2\\Repos\\MovieRepo.cs",
+              "RelativeDocumentMoniker": "assigment2\\Repos\\MovieRepo.cs",
+              "ToolTip": "C:\\Users\\Seif Alaa\\source\\repos\\assigment2\\assigment2\\Repos\\MovieRepo.cs*",
+              "RelativeToolTip": "assigment2\\Repos\\MovieRepo.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T17:02:01.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\Seif Alaa\\source\\repos\\assigment2\\assigment2\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "assigment2\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\Seif Alaa\\source\\repos\\assigment2\\assigment2\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "assigment2\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAcwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T15:45:46.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Seif Alaa\\source\\repos\\assigment2\\assigment2\\Repos\\BookRepo.cs",
+              "RelativeDocumentMoniker": "assigment2\\Repos\\BookRepo.cs",
+              "ToolTip": "C:\\Users\\Seif Alaa\\source\\repos\\assigment2\\assigment2\\Repos\\BookRepo.cs",
+              "RelativeToolTip": "assigment2\\Repos\\BookRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T15:50:15.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.Bookings [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Assignment2/True/SqlTable/dbo.Bookings.sql",
+              "ToolTip": "dbo.Bookings [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-03T15:51:31.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

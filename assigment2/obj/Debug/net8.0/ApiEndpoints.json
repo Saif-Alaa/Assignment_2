@@ -1,0 +1,522 @@
+[
+  {
+    "ContainingType": "assigment2.Controllers.BookingController",
+    "Method": "GetBook",
+    "RelativePath": "api/Booking",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assigment2.Controllers.BookingController",
+    "Method": "Add",
+    "RelativePath": "api/Booking",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "assigment2.Dtos.CreateBookingDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assigment2.Controllers.BookingController",
+    "Method": "Delete",
+    "RelativePath": "api/Booking",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assigment2.Controllers.BookingController",
+    "Method": "Getbook",
+    "RelativePath": "api/Booking/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assigment2.Controllers.BookingController",
+    "Method": "Details",
+    "RelativePath": "api/Booking/details",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assigment2.Controllers.BookingController",
+    "Method": "Revenue",
+    "RelativePath": "api/Booking/revenue",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assigment2.Controllers.CustomerControllerController",
+    "Method": "GetCustomers",
+    "RelativePath": "api/CustomerController",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assigment2.Controllers.CustomerControllerController",
+    "Method": "Add",
+    "RelativePath": "api/CustomerController",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "assigment2.Dtos.CreateCustomerDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assigment2.Controllers.CustomerControllerController",
+    "Method": "Delete",
+    "RelativePath": "api/CustomerController",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assigment2.Controllers.CustomerControllerController",
+    "Method": "GetCustomer",
+    "RelativePath": "api/CustomerController/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assigment2.Controllers.CustomerControllerController",
+    "Method": "AUpdate",
+    "RelativePath": "api/CustomerController/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "assigment2.Dtos.CreateCustomerDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assigment2.Controllers.CustomerControllerController",
+    "Method": "NoBooking",
+    "RelativePath": "api/CustomerController/No-Book",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assigment2.Controllers.CustomerControllerController",
+    "Method": "Bookinr",
+    "RelativePath": "api/CustomerController/Retrieve-customers-together-with-their-bookings.",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assigment2.Controllers.CustomerControllerController",
+    "Method": "GetVip",
+    "RelativePath": "api/CustomerController/Vip",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assigment2.Controllers.GenreController",
+    "Method": "GetGenres",
+    "RelativePath": "api/Genre",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assigment2.Controllers.GenreController",
+    "Method": "Add",
+    "RelativePath": "api/Genre",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "assigment2.Dtos.CreateGenreDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assigment2.Controllers.GenreController",
+    "Method": "Delete",
+    "RelativePath": "api/Genre",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assigment2.Controllers.GenreController",
+    "Method": "GetGenre",
+    "RelativePath": "api/Genre/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assigment2.Controllers.GenreController",
+    "Method": "AUpdate",
+    "RelativePath": "api/Genre/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "assigment2.Dtos.CreateGenreDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assigment2.Controllers.GenreController",
+    "Method": "GetGenresWithMovies",
+    "RelativePath": "api/Genre/Retrieve-all-genres-with-their-related-movies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assigment2.Controllers.MovieController",
+    "Method": "GetAllMovies",
+    "RelativePath": "api/Movie",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assigment2.Controllers.MovieController",
+    "Method": "Add",
+    "RelativePath": "api/Movie",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "assigment2.Dtos.CreateMovieDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assigment2.Controllers.MovieController",
+    "Method": "Update",
+    "RelativePath": "api/Movie",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "dto",
+        "Type": "assigment2.Dtos.CreateMovieDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assigment2.Controllers.MovieController",
+    "Method": "Delete",
+    "RelativePath": "api/Movie",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assigment2.Controllers.MovieController",
+    "Method": "getMovie",
+    "RelativePath": "api/Movie/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assigment2.Controllers.MovieController",
+    "Method": "GetMoviesByRating",
+    "RelativePath": "api/Movie/api/rating",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "rating",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assigment2.Controllers.MovieController",
+    "Method": "Available",
+    "RelativePath": "api/Movie/available",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assigment2.Controllers.MovieController",
+    "Method": "Average",
+    "RelativePath": "api/Movie/average",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assigment2.Controllers.MovieController",
+    "Method": "GetMoviesWithGenre",
+    "RelativePath": "api/Movie/Genre-Details",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assigment2.Controllers.MovieController",
+    "Method": "Latest",
+    "RelativePath": "api/Movie/Get-Latest",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assigment2.Controllers.MovieController",
+    "Method": "TopRated",
+    "RelativePath": "api/Movie/Get-Top-Rated",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assigment2.Controllers.MovieController",
+    "Method": "Count",
+    "RelativePath": "api/Movie/GetCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assigment2.Controllers.MovieController",
+    "Method": "MostBooked",
+    "RelativePath": "api/Movie/most-booked",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assigment2.Controllers.MovieController",
+    "Method": "Pagination",
+    "RelativePath": "api/Movie/pagination",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "number",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "size",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assigment2.Controllers.MovieController",
+    "Method": "GetMoviesByPriceRange",
+    "RelativePath": "api/Movie/Price-between",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "minPrice",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "maxPrice",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assigment2.Controllers.MovieController",
+    "Method": "Search",
+    "RelativePath": "api/Movie/Search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "title",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assigment2.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[assigment2.WeatherForecast, assigment2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
